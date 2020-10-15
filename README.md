@@ -3,16 +3,18 @@ Data Science e Machine Learning na Prática: Introdução e Aplicações na Ind�
 
 O Curso conta com videoaulas com explicações de conceitos teóricos e técnicas práticas, exercícios e bibliografia recomendada para material de apoio.
 
-Linguagem utilizada: Jypiter Notebook - Python
+- Ambiente utilizado: Kaggle - Jupyter notebook
 
-Librarias utilizados: 
-- Numpy
-- Pandas
-- Matplotlib
-- Sklearn
+- Linguagem utilizada: - Python
 
-Métrica utilizada para o teste de Regressão Linear: Random Forest
+- Librarias utilizadas: 
+1. Numpy
+2. Pandas
+3. Matplotlib
+4. Sklearn
 
-Vídeos: https://www.youtube.com/channel/UCyAI9UTiIpyPLODsoA22syA
+- Métrica utilizada para o teste de Regressão Linear: Random Forest
 
-Scripts contendo os exercícios resolvidos por mim (chamados "Mãs na massa!"): https://www.kaggle.com/sindypiero/epv-peq-aula-1-regress-o
+- Vídeos: https://www.youtube.com/channel/UCyAI9UTiIpyPLODsoA22syA
+
+- Scripts contendo os exercícios resolvidos por mim (chamados "Mãs na massa!"): https://www.kaggle.com/sindypiero/epv-peq-aula-1-regress-o
